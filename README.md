@@ -62,12 +62,6 @@ php artisan migrate
 
 ## 5. Run Application
 
-Jalankan Vite untuk kebutuhan frontend pada terminal:
-
-```bash
-npm run dev
-```
-
 Jalankan aplikasi menggunakan **Laravel Herd** dengan langkah berikut:
 
 1. Pastikan Laravel Herd sudah terinstal dan berjalan.
